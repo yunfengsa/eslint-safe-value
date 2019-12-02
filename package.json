@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-dxymom",
+  "name": "@dxy-mom/eslint-plugin-dxymom",
   "version": "1.0.0",
   "description": "dxy-mom plugin",
   "keywords": [
